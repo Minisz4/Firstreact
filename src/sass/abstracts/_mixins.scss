@@ -1,0 +1,9 @@
+@mixin primary-btn($bg-color) {
+  background-color: $bg-color;
+  color: red;
+}
+
+@mixin primary-nav($bg-colornav) {
+  background-color: pink;
+  color: black;
+}
